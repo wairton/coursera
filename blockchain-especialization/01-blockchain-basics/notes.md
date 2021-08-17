@@ -19,3 +19,12 @@ Links:
 - https://blockexplorer.com/
 - https://etherscan.io/
 
+
+# Week 2
+
+## Ethereum Blockchain: Smart Contracts
+
+Learning objectives:
+- Understand at a high level the innovation of the ethereum blockchain, namely the smart contract. 
+- Illustrate ethereum blockchain protocol, structural elements, and operational aspects. 
+- Demonstrate the concept of gas, the fuel or the payment model for code execution and the incentive model for the Ethereum blockchain.
