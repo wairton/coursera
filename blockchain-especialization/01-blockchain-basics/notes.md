@@ -28,3 +28,6 @@ Learning objectives:
 - Understand at a high level the innovation of the ethereum blockchain, namely the smart contract. 
 - Illustrate ethereum blockchain protocol, structural elements, and operational aspects. 
 - Demonstrate the concept of gas, the fuel or the payment model for code execution and the incentive model for the Ethereum blockchain.
+
+![ethereum_stack_vs_bitcoin_stack](https://user-images.githubusercontent.com/1301883/129811546-51b01f86-4f92-4ce0-b473-786eb9837f7c.png)
+
