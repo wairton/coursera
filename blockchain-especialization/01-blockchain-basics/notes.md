@@ -33,6 +33,9 @@ Learning objectives:
 
 Links:
 - https://blockgeeks.com/guides/smart-contracts/
-- https://docs.soliditylang.org/en/develop/introduction-to-smart-contracts.html
-
+- https://docs.soliditylang.org/en/develop
+- https://www.coindesk.com/learn/ethereum-101/how-ethereum-works/introduction-to-smart-contracts.html
+- https://ethereum.org/en/whitepaper/
+- https://www.coindesk.com/learn/ethereum-101/what-is-ethereum
+- https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/
 
