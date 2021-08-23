@@ -39,3 +39,14 @@ Links:
 - https://www.coindesk.com/learn/ethereum-101/what-is-ethereum
 - https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/
 
+
+# Week 3
+
+Main concepts:
+- Public-key cryptography
+- Secure hashing
+- Transaction integrity
+- Block integrity
+
+Links:
+- https://qvault.io/cryptography/elliptic-curve-cryptography/
