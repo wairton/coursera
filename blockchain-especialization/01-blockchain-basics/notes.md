@@ -50,3 +50,7 @@ Main concepts:
 
 Links:
 - https://qvault.io/cryptography/elliptic-curve-cryptography/
+- https://cse.buffalo.edu/blockchain/blockhash.html
+- https://cse.buffalo.edu/blockchain/encryption.html
+- https://blockexplorer.com/
+- 
