@@ -53,4 +53,17 @@ Links:
 - https://cse.buffalo.edu/blockchain/blockhash.html
 - https://cse.buffalo.edu/blockchain/encryption.html
 - https://blockexplorer.com/
+
+# Week 4
+
+Learning objectvies: 
+- Define elements of trust in a blockchain: security, validation verification and consensus
+- discuss consensus protocol
+- explain "trust"
+- illustrate trust in situations like "soft fork" and "hard fork"
+
+Links:
+- https://arxiv.org/pdf/1706.01730.pdf
+- https://www.coindesk.com/short-guide-blockchain-consensus-protocols/
+- https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2
 - 
